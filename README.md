@@ -15,7 +15,7 @@ Crafted with <span style="color: #8b0000;">&hearts;</span> by Mayank Parida
 
 ## Demo for the Application 🚀
 
-<img src="https://user-images.githubusercontent.com/68542629/176991451-37130da0-48a1-4b5d-8213-031f7678554e.jpg" width="275">
+<img src="https://user-images.githubusercontent.com/68542629/176991451-37130da0-48a1-4b5d-8213-031f7678554e.jpg" width="275"> <img src="https://user-images.githubusercontent.com/68542629/176995755-bc91d9ca-62bc-4c80-9cb2-c206ae3e3c0c.gif" width="275">
 
 [HLS-Autoplay.apk](https://drive.google.com/file/d/1wf2vkRn-iXL2VLC0zPhnrzfHZLjXsF7n/view?usp=sharing)
 
