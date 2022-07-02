@@ -15,10 +15,9 @@ Crafted with <span style="color: #8b0000;">&hearts;</span> by Mayank Parida
 
 ## Demo for the Application 🚀
 
-<p>Click https://sql-editor-react.netlify.app to view the deployed site</p>
 <img src="https://user-images.githubusercontent.com/68542629/176991451-37130da0-48a1-4b5d-8213-031f7678554e.jpg" width="275">
 
-[HLS-Autoplay.apk](https://drive.google.com/file/d/1yegEmjdYdknL3_XX3o4T16CtwBln85ue/view?usp=sharing)
+[HLS-Autoplay.apk](https://drive.google.com/file/d/1wf2vkRn-iXL2VLC0zPhnrzfHZLjXsF7n/view?usp=sharing)
 
 ## 👨‍💻 Features
 
