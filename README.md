@@ -1,16 +1,41 @@
-# yellow_class_tube
+<h1 align="center">
+    🚀 HLS Autoplay Application - Yellow Class SDE - Flutter Assignment
+</h1>
 
-A new Flutter project.
 
-## Getting Started
+<p align="center">
+Crafted with <span style="color: #8b0000;">&hearts;</span> by Mayank Parida
+</p>
 
-This project is a starting point for a Flutter application.
+<h2 align="center">Built using: </h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Demo for the Application 🚀
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p>Click https://sql-editor-react.netlify.app to view the deployed site</p>
+<img src="https://user-images.githubusercontent.com/68542629/176991451-37130da0-48a1-4b5d-8213-031f7678554e.jpg" width="275">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[HLS-Autoplay.apk](https://drive.google.com/file/d/1yegEmjdYdknL3_XX3o4T16CtwBln85ue/view?usp=sharing)
+
+## 👨‍💻 Features
+
+:white_check_mark: Users can scroll through an infinite list of video cards.\
+:white_check_mark: Videos in the video cards automatically play when entering viewport focus area.\
+:white_check_mark: Videos in the video cards automatically stop playing when exiting the viewport focus area.\
+:white_check_mark: Users can mute/unmute/toggle through the videos being displayed in the video card.
+
+## ⚙️ Prerequisites:
+For running this script you'll need:
+* Visual Studio Code
+* Android Emulator (In Android Studio) or Android device
+* Flutter Plugin
+
+## ⚙️ Flutter Packages Used
+
+- `flick_video_player: 0.3.1` - To manage the video player present in the video tiles.
+- `visibility_detector: 0.2.2` - To detect video tile's presence in the viewport.
+- `flutter_riverpod: 0.13.1+1` - To manage state of the selected video.
+- `miniplayer: ^1.0.0+2` - To manage minivideo of the selected video.
